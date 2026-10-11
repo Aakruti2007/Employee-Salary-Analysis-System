@@ -211,7 +211,6 @@ void salaryReport()
     printf("------------------------------------------------\n");
 }
 
-
 /* Selection Sort */
 void selectionSort(struct Employee arr[], int size,
                    long *comparisons, long *movements)
